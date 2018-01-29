@@ -1,0 +1,9 @@
+C:\Users\Nu\Desktop\ASPNET\UDPcommunication\UDPcommunication\bin\Debug\UDPcommunication.exe.config
+C:\Users\Nu\Desktop\ASPNET\UDPcommunication\UDPcommunication\obj\Debug\UDPcommunication.csprojResolveAssemblyReference.cache
+C:\Users\Nu\Desktop\ASPNET\UDPcommunication\UDPcommunication\obj\Debug\UDPcommunication.Form1.resources
+C:\Users\Nu\Desktop\ASPNET\UDPcommunication\UDPcommunication\obj\Debug\UDPcommunication.Properties.Resources.resources
+C:\Users\Nu\Desktop\ASPNET\UDPcommunication\UDPcommunication\obj\Debug\UDPcommunication.csproj.GenerateResource.Cache
+C:\Users\Nu\Desktop\ASPNET\UDPcommunication\UDPcommunication\bin\Debug\UDPcommunication.exe
+C:\Users\Nu\Desktop\ASPNET\UDPcommunication\UDPcommunication\bin\Debug\UDPcommunication.pdb
+C:\Users\Nu\Desktop\ASPNET\UDPcommunication\UDPcommunication\obj\Debug\UDPcommunication.exe
+C:\Users\Nu\Desktop\ASPNET\UDPcommunication\UDPcommunication\obj\Debug\UDPcommunication.pdb
